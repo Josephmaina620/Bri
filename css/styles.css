@@ -1,0 +1,10 @@
+body { margin: 0;
+padding: 0;
+background-color: #fff;
+color: #444452;
+line-height: 1.5;
+scroll-behavior: smooth;
+font-family: 'Share Tech Mono', monospace;
+align-content: center;
+content: inherit;
+}
